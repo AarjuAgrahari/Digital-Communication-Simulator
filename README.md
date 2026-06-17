@@ -193,10 +193,6 @@ Open the URL printed in the console (usually `http://localhost:8501`).
 - B.Tech, Electronics & Communication Engineering (Data Science)
 - Research Interests: Communication Systems, Space Technology, AI for Engineering, Satellite Networks
 
----
-
-## 📢 License
-This project is licensed under the MIT License – see the `LICENSE` file for details.
 
 ---
 
