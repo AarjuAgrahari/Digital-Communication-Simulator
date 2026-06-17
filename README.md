@@ -148,13 +148,13 @@ Open the URL printed in the console (usually `http://localhost:8501`).
 ## 📸 Screenshots
 | Caption | Image |
 |---------|-------|
-| **Bit_Stream** | ![Bit_Stream](plots/bit_stream.png) |
-| **BER Curve Result** | ![BER Curve Result](plots/ber_curve.png) |
-| **BPSK Modulation** | ![BPSK Modulation](plots/bpsk_signal.png) | 
-| **Noisy Signal** | ![Noisy Signal](plots/noisy_signal.png) |
-| **Constellation Diagram** | ![Constellation](plots/constellation.png) |
+| **Bit_Stream** | ![Bit_Stream](assets/bit_stream.png) |
+| **BER Curve Result** | ![BER Curve Result](assets/ber_curve.png) |
+| **BPSK Modulation** | ![BPSK Modulation](assets/bpsk_signal.png) | 
+| **Noisy Signal** | ![Noisy Signal](assets/noisy_signal.png) |
+| **Constellation Diagram** | ![Constellation](assets/constellation.png) |
 
-*All images are stored in the `plots/` directory.*
+*All images are stored in the `assets/` directory.*
 
 ---
 
