@@ -1,5 +1,8 @@
 # 📡 Digital Communication Channel Simulator
 
+> **Abstract**
+> This repository presents a comprehensive, academically‑styled simulation of a digital communication system employing Binary Phase‑Shift Keying (BPSK) modulation over an Additive White Gaussian Noise (AWGN) channel. The simulator integrates theoretical analysis—deriving closed‑form Bit Error Rate (BER) expressions—with Monte‑Carlo experiments, offering an interactive platform for exploring fundamental concepts in modern communication theory and signal processing. Implemented in Python with a Streamlit front‑end, the tool serves both pedagogical demonstrations and rapid prototyping of communication link models.
+
 ![Project Logo](assets/logo_1781694808240.png)
 
 ---
@@ -93,7 +96,7 @@ Each arrow represents a deterministic transformation or stochastic process, enab
 ### 1️⃣ Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your‑username/Digital‑Communication‑Simulator.git
+git clone https://github.com/AarjuAgrahari/Digital-Communication-Simulator.git
 cd Digital-Communication-Simulator
 ```
 
