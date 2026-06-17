@@ -1,0 +1,35 @@
+# .gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyInstaller
+*.manifest
+*.spec
+
+# VS Code settings
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# Generated plots and results (keep locally, not versioned)
+plots/
+results/
+
+# IDE / OS files
+.DS_Store
+Thumbs.db
